@@ -17,3 +17,5 @@ Replace the path on this line
 driver = webdriver.Chrome(executable_path = 'D:\Python\Restricted\Work\chromedriver')
 
 replace it with the webdriver executables path
+
+Note - Do Not Fork This Repository And Upload It As Yours. Respect Other People's Work
